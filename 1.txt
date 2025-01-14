@@ -1,10 +1,1 @@
-седалть цикл на джава
 
-for i in range(5)
-
-вот, держи
-
-vot, derzhi
-
-spss
-aaaaaaaaaaaaaaaaaaaaaaaa
